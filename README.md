@@ -1,5 +1,4 @@
-# car-service-website
-Professional WordPress website design for an automobile service business.
+
 # Car Service Website
 
 Professional WordPress website designed for an automobile service business.
