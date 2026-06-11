@@ -31,13 +31,13 @@ This website was created using WordPress and Elementor to provide a modern and r
 ![Home](home.PNG)
 
 ### About Page
-![About](aboutus.png)
+![About](aboutus.PNG)
 
 ### Contact Page
-![Contact](contactus.ppg)
+![Contact](contactus.PNG)
 
 ### Available Page
-![Available](avl car.ppg)
+![Available](avl car.PNG)
 
 ## Author
 
