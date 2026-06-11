@@ -27,10 +27,17 @@ This website was created using WordPress and Elementor to provide a modern and r
 
 ## Screenshots
 
-(home.png
-aboutus.png
-contactus.png
-avl car.png)
+### Home Page
+![Home](home.PNG)
+
+### About Page
+![About](aboutus.png)
+
+### Contact Page
+![Contact](contactus.ppg)
+
+### Available Page
+![Available](avl car.ppg)
 
 ## Author
 
