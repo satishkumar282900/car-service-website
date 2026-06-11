@@ -36,8 +36,8 @@ This website was created using WordPress and Elementor to provide a modern and r
 ### Contact Page
 ![Contact](contactus.PNG)
 
-### Available Page
-![Available](avl car.PNG)
+### Service Page
+![Service](service.jpg)
 
 ## Author
 
